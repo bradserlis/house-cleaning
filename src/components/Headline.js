@@ -6,10 +6,7 @@ import '../App.css';
 const Headline = () => {
   return (
     <div className="headline">
-      <div className="overlay">
-        <header className="App-header">
-        </header>
-      </div>
+    <div className="overlay" />
     </div>
   )
 }

@@ -18,6 +18,7 @@
 }
 
 .headline {
+  min-height: 100vh;
   background: url('./background.jpg');
   background-size: cover;
   background-position: center;
@@ -29,6 +30,17 @@
   display: flex;
   flex: 1;
   background: rgba(10,10,10,.5)
+}
+
+.contact-container {
+  display: flex;
+  flex: 1;
+}
+
+.contact-section {
+  display: flex;
+  flex: 1;
+  flex-direction: column;  
 }
 
 .App-header {
