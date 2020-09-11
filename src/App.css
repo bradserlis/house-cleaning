@@ -1,4 +1,7 @@
 .App {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
   text-align: center;
 }
 
@@ -12,6 +15,20 @@
   .App-logo {
     animation: App-background-scroll infinite 20s linear;
   }
+}
+
+.headline {
+  background: url('./background.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex: 1;
+}
+
+.overlay {
+  display: flex;
+  flex: 1;
+  background: rgba(10,10,10,.5)
 }
 
 .App-header {

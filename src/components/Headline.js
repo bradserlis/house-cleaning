@@ -5,21 +5,11 @@ import '../App.css';
 
 const Headline = () => {
   return (
-    <div>
-     <header className="App-header">
-        <img src={background} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="headline">
+      <div className="overlay">
+        <header className="App-header">
+        </header>
+      </div>
     </div>
   )
 }
