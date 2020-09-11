@@ -1,3 +1,9 @@
+# Credits
+
+Freepik @ www.flaticon.com
+Smashicons @ https://www.flaticon.com/
+Braden Jarvis @ Unsplash
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
