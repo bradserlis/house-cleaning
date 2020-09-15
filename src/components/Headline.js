@@ -2,7 +2,7 @@ import React from 'react';
 
 import '../App.css';
 import logo from '../logo.jpg';
-import logoVerical from '../logo-vertical.jpg';
+import logoVertical from '../logo-vertical.jpg';
 
 const Headline = () => {
   return (
