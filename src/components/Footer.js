@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return(
     <div className="footer-container">
-    <p>Questions? Email us <a href="mailto:cowboysrule.dp@gmail.com"> here </a></p>
+    <p>Questions? Email us @ <span className="email-span">cowboysrule.dp@gmail.com </span></p>
     </div>
   )
 }
