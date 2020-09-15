@@ -79,7 +79,7 @@ h2:first-child {
 }
 
 .default-logo {
-  display: default;
+  display: block;
 }
 
 .overlay {
