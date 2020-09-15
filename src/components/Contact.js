@@ -2,17 +2,15 @@ import React from 'react';
 
 const Contact = () => {
   return(
-    <div>
-      <h1>Contact goes here!</h1>
-      <div className="contact-container">
+    <div className="contact-container">
+      <h2>Contact</h2>
+      <div className="contact-block">
         <div className="contact-section">
-          <h2>Address</h2>
-          <h4>1015 Aoloa Pl, Apt 428</h4>
-          <h4>96734</h4>  
+          <h4>Serving Windward Side O‘ahu</h4>
+          <p>Kailua and surrounding areas</p>  
         </div>
         <div className="contact-section">
-          <h2>Phone Number</h2>
-          <h4>(XXX)XXX-XXXX</h4>
+          <p>Free Estimates (808)384-4711</p>
         </div>
       </div>
     </div>

@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
   return(
-    <div>
-      <h1>Footer Goes here!</h1>
+    <div className="footer-container">
+    <p>Questions? Email us <a href="mailto:cowboysrule.dp@gmail.com"> here </a></p>
     </div>
   )
 }
