@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bradserlis.github.io/kailua-house-cleaning/static/css/main.a2e882b6.chunk.css",
-    "main.js": "/bradserlis.github.io/kailua-house-cleaning/static/js/main.fdbbf89b.chunk.js",
-    "main.js.map": "/bradserlis.github.io/kailua-house-cleaning/static/js/main.fdbbf89b.chunk.js.map",
-    "runtime-main.js": "/bradserlis.github.io/kailua-house-cleaning/static/js/runtime-main.cb52b61a.js",
-    "runtime-main.js.map": "/bradserlis.github.io/kailua-house-cleaning/static/js/runtime-main.cb52b61a.js.map",
-    "static/js/2.22a6b1aa.chunk.js": "/bradserlis.github.io/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js",
-    "static/js/2.22a6b1aa.chunk.js.map": "/bradserlis.github.io/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js.map",
-    "index.html": "/bradserlis.github.io/kailua-house-cleaning/index.html",
-    "precache-manifest.6473aca79eb6e0640029f9de92d8f4f7.js": "/bradserlis.github.io/kailua-house-cleaning/precache-manifest.6473aca79eb6e0640029f9de92d8f4f7.js",
-    "service-worker.js": "/bradserlis.github.io/kailua-house-cleaning/service-worker.js",
-    "static/css/main.a2e882b6.chunk.css.map": "/bradserlis.github.io/kailua-house-cleaning/static/css/main.a2e882b6.chunk.css.map",
-    "static/js/2.22a6b1aa.chunk.js.LICENSE.txt": "/bradserlis.github.io/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js.LICENSE.txt",
-    "static/media/logo-vertical.jpg": "/bradserlis.github.io/kailua-house-cleaning/static/media/logo-vertical.a2b98cfe.jpg",
-    "static/media/logo.jpg": "/bradserlis.github.io/kailua-house-cleaning/static/media/logo.d1dd934c.jpg"
+    "main.css": "/kailua-house-cleaning/static/css/main.a2e882b6.chunk.css",
+    "main.js": "/kailua-house-cleaning/static/js/main.5d354216.chunk.js",
+    "main.js.map": "/kailua-house-cleaning/static/js/main.5d354216.chunk.js.map",
+    "runtime-main.js": "/kailua-house-cleaning/static/js/runtime-main.e1686e20.js",
+    "runtime-main.js.map": "/kailua-house-cleaning/static/js/runtime-main.e1686e20.js.map",
+    "static/js/2.22a6b1aa.chunk.js": "/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js",
+    "static/js/2.22a6b1aa.chunk.js.map": "/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js.map",
+    "index.html": "/kailua-house-cleaning/index.html",
+    "precache-manifest.85139def8240bd3de427c6ee153ed3ad.js": "/kailua-house-cleaning/precache-manifest.85139def8240bd3de427c6ee153ed3ad.js",
+    "service-worker.js": "/kailua-house-cleaning/service-worker.js",
+    "static/css/main.a2e882b6.chunk.css.map": "/kailua-house-cleaning/static/css/main.a2e882b6.chunk.css.map",
+    "static/js/2.22a6b1aa.chunk.js.LICENSE.txt": "/kailua-house-cleaning/static/js/2.22a6b1aa.chunk.js.LICENSE.txt",
+    "static/media/logo-vertical.jpg": "/kailua-house-cleaning/static/media/logo-vertical.a2b98cfe.jpg",
+    "static/media/logo.jpg": "/kailua-house-cleaning/static/media/logo.d1dd934c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb52b61a.js",
+    "static/js/runtime-main.e1686e20.js",
     "static/js/2.22a6b1aa.chunk.js",
     "static/css/main.a2e882b6.chunk.css",
-    "static/js/main.fdbbf89b.chunk.js"
+    "static/js/main.5d354216.chunk.js"
   ]
 }
