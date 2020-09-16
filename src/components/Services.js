@@ -4,6 +4,7 @@ const Services = () => {
   return(
     <div className="services-container">
       <h2>Services</h2>
+      <div className="divider"></div>
       <div className="services-block">
         <ul>
           <li> <span className="emoji" role="img" aria-label="diamond">💎</span>30+ Years of Experience </li>

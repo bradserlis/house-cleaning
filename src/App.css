@@ -32,12 +32,14 @@ h1 {
   font-family: 'Oxygen', sans-serif;
 }
 
-h2:first-child {
-  margin-top: 0;
+h2 {
+  margin-bottom: 5px;
 }
 
-.contact-container, .services-container {
-  padding: 50px;
+.divider {
+  max-width: 75%;
+  border-bottom: 1px solid rgb(147 145 145);
+  margin: 0 auto;
 }
 
 .emoji {
@@ -97,20 +99,6 @@ h2:first-child {
 
 .contact-container {
   background: rgb(206 227 255);
-  border-bottom: 1px solid black;
-}
-
-.contact-block {
-  display: flex;
-  flex: 1;
-  justify-content: space-around;
-  flex-direction: column;
-}
-
-.contact-section {
-  display: flex;
-  flex: 1;
-  flex-direction: column;  
 }
 
 .footer-container {
@@ -143,6 +131,10 @@ h2:first-child {
 
   .default-logo {
     display: none;
+  }
+
+  h2:first-child {
+    margin: 5px 0; 
   }
 
 }
